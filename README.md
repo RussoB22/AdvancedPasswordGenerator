@@ -34,6 +34,7 @@ WHEN all prompts are answered
 THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
+```
 
 ![russob22 github io_AdvancedPasswordGenerator_](https://user-images.githubusercontent.com/123154529/221099083-21a5f5ae-f09e-41dc-aa83-82b81cb7323d.png)
 
